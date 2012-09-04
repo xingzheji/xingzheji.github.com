@@ -2,10 +2,10 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yoursite.com
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+url: http://www.xingzheji.com
+title: 行者迹
+subtitle: 活过，思绪曾在此凝结
+author: Yao Wang
 simple_search: http://google.com/search
 description:
 
@@ -80,7 +80,7 @@ twitter_show_follower_count: false
 twitter_tweet_button: true
 
 # Google +1
-google_plus_one: false
+google_plus_one: true
 google_plus_one_size: medium
 
 # Google Plus Profile
@@ -98,12 +98,12 @@ delicious_user:
 delicious_count: 3
 
 # Disqus Comments
-disqus_short_name:
+disqus_short_name: xingzheji
 disqus_show_comment_count: false
 disqus_developer: 0
 
 # Google Analytics
-google_analytics_tracking_id:
+google_analytics_tracking_id: UA-34546859-1
 
 # Facebook Like
 facebook_like: false
