@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title><![CDATA[行者迹]]></title>
+  <link href="http://www.xingzheji.com/atom.xml" rel="self"/>
+  <link href="http://www.xingzheji.com/"/>
+  <updated>2012-09-05T00:36:53+08:00</updated>
+  <id>http://www.xingzheji.com/</id>
+  <author>
+    <name><![CDATA[Yao Wang]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+</feed>
